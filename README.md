@@ -1,62 +1,26 @@
-# README
+<h1 align="center">Welcome to Samourai_Photo_Cats 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-ruby 2.7.4 rails 5.2.6-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
+> E-commerce shop
 
+## Install
 
-* Deployment instructions
-
-* ...
-![Screenshot 2021-12-02 at 22 39 44](https://user-images.githubusercontent.com/45837593/144507586-6b2ede0b-a3aa-4822-833c-ecc907115c5d.png)
-
-
-Visite en ligne https://samouraiphotocats.herokuapp.com
-
-Compte Visiteur
-
-Connectez-vous sans mot de passe a votre compte client
-
-🔧 Installation en local
-
-Configuration
-
-Entrez les commandes suivantes dans votre terminal préféré :
-
-git clone git@github.com:profprogrammeur/SAMOURAI_PHOTO_CATS.git
-
-cd SAMOURAI_PHOTO_CATS
-
-rvm use 2.7.4 --default 
-
+```sh
 bundle install
+```
 
-Database creation
+## Author
 
-rails db:create
-
-rails db:migrate
-
-Database initialisation
-
-rails db:seed
+👤 **Hugo/Antoine/Kim/Paul**
 
 
+## Show your support
 
-🔥 Connexion au site
+Give a ⭐️ if this project helped you!
 
-rails server
-
-Une fois le server connecté, rendez-vous sur :
-
-http://localhost:3000/
-
-(Rappel) Compte Visiteur avec obligation de se connecter
-
-
-
-Bonne visite !
-
-🐰 Auteurs
-
-Hugo CLAISSE
-Paul Kone
-
-
+***
